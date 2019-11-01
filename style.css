@@ -4339,6 +4339,7 @@ html[lang|="zh"] .search-results-description em {
       vertical-align: middle;
         text-transform: uppercase;
     font-weight: 600;
+    color: white;
 }
 .outer-header .logo img {
   vertical-align: middle;
