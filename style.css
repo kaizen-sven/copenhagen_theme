@@ -4342,9 +4342,9 @@ html[lang|="zh"] .search-results-description em {
 .outer-header .logo img {
   vertical-align: middle;
 }
-.hero {
-  background-image: url(assets/sec-bg.jpg) !important;
-}
+/*.hero {*/
+/*  background-image: url(assets/sec-bg.jpg) !important;*/
+/*}*/
 
 .search input[type="search"] {
   border: 2px solid #000;
