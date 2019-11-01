@@ -4325,13 +4325,14 @@ html[lang|="zh"] .search-results-description em {
   background: black;
 }
 .outer-header .user-info > [role="button"],
-.outer-header a,
-.outer-header a:visited {
+.outer-header > a,
+.outer-header > a:visited {
   color: white !important;
 }
 .outer-header .user-info > [role="button"]::after {
   color: white;
 }
+
 .outer-header a.my-tp-link {
       line-height: 2.34;
       display: inline-block;
